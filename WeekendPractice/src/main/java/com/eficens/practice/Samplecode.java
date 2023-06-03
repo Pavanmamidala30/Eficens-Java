@@ -6,6 +6,11 @@ public class Samplecode {
         int c=a+b;
         return c;
     }
+
+    public static int subTwoInt(Integer a, Integer b){
+        int c = a-b;
+        return c;
+    }
     public static void main(String[] args) {
 
     }
